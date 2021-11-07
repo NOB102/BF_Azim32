@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sbor"
+        android:icon="@drawable/work"
+        android:title="@string/ic_sbor"
+        android:orderInCategory="1"
+
+        />
+    <item
+        android:id="@+id/otchet"
+        android:icon="@drawable/list"
+        android:title="@string/ic_otchet"
+        android:orderInCategory="2"
+        />
+    <item
+        android:id="@+id/yvedomleniya"
+        android:icon="@drawable/notifications_none"
+        android:title="@string/ic_yvedomleniya"
+        android:orderInCategory="3"
+        />
+    <item
+        android:id="@+id/profil"
+        android:icon="@drawable/person_outline"
+        android:title="@string/ic_profil"
+        android:orderInCategory="4"
+        />
+
+</menu>
